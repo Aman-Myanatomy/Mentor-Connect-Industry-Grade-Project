@@ -1,0 +1,13 @@
+{
+  "watch": [
+    "."
+  ],
+  "ignore": [
+    "node_modules",
+    "dist",
+    "tests",
+    ".env*"
+  ],
+  "ext": "ts,md",
+  "exec": "tsx index.ts"
+}
